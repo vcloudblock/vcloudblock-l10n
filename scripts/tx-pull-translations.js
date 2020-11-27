@@ -36,7 +36,8 @@ import locales, {localeMap} from '../src/supported-locales.js';
 const PROJECT = args[0];
 const RESOURCE = args[1];
 const OUTPUT_DIR = path.resolve(args[2]);
-const MODE = {mode: 'reviewed'};
+// const MODE = {mode: 'reviewed'};
+const MODE = {mode: 'default'};
 const CONCURRENCY_LIMIT = 4;
 
 const TX = new transifex({
