@@ -1,4 +1,5 @@
 {
+    "paint.colorPicker.swap": "Swap",
     "paint.paintEditor.hue": "Color",
     "paint.paintEditor.saturation": "Saturation",
     "paint.paintEditor.brightness": "Brightness",
@@ -40,6 +41,5 @@
     "paint.reshapeMode.reshape": "Reshape",
     "paint.roundedRectMode.roundedRect": "Rounded Rectangle",
     "paint.selectMode.select": "Select",
-    "paint.textMode.text": "Text",
-    "paint.colorPicker.swap": "Swap"
+    "paint.textMode.text": "Text"
 }
