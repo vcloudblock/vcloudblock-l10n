@@ -33,7 +33,8 @@ import locales, {localeMap} from '../src/supported-locales.js';
 const PROJECT = 'scratch-editor-2';
 const RESOURCE = 'blocks';
 const OUTPUT_DIR = path.resolve(args[0]);
-const MODE = {mode: 'reviewed'};
+// const MODE = {mode: 'reviewed'};
+const MODE = {mode: 'default'};
 const CONCURRENCY_LIMIT = 4;
 
 const TX = new transifex({

@@ -91,7 +91,7 @@
     "gui.extensionLibrary.author": "作者",
     "gui.extensionLibrary.programMode": "程序模式",
     "gui.extensionLibrary.programLanguage": "程序语言",
-    "gui.extensionLibrary.Processing": "加载中...",
+    "gui.extensionLibrary.Processing": "处理中...",
     "gui.extensionLibrary.loaded": "已加载",
     "gui.extensionLibrary.notLoaded": "未加载",
     "gui.library.filterPlaceholder": "搜索",
