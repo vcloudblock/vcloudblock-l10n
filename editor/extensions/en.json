@@ -3,6 +3,8 @@
     "arduinoNano.category.Test": "Test",
     "arduinoUno.category.pins": "Pins",
     "arduinoUno.category.serial": "Serial",
+    "arduinoUno.connection.connectFirmataSuccess": "Success to connect firmata",
+    "arduinoUno.connection.connectFirmataTimeout": "Timeout when try to connect firmata, please download the firmware first",
     "arduinoUno.levelMenu.high": "High",
     "arduinoUno.levelMenu.low": "Low",
     "arduinoUno.modeMenu.input": "Input",

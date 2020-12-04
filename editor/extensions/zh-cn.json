@@ -3,6 +3,8 @@
     "arduinoNano.category.Test": "测试",
     "arduinoUno.category.pins": "引脚",
     "arduinoUno.category.serial": "串口",
+    "arduinoUno.connection.connectFirmataSuccess": "成功连接到firmata",
+    "arduinoUno.connection.connectFirmataTimeout": "尝试连接firmata时超时, 请先下载固件",
     "arduinoUno.levelMenu.high": "高",
     "arduinoUno.levelMenu.low": "低",
     "arduinoUno.modeMenu.input": "输入",
