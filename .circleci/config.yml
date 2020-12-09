@@ -77,16 +77,6 @@ jobs:
             git add .
             git commit -m "pull new editor translations from Transifex"
             git push $CIRCLE_REPOSITORY_URL HEAD:master
-  sync-help:
-    <<: *defaults
-    steps:
-      - checkout
-      - node/install-packages
-      - run: npm run sync:help
-      - slack/status:
-          fail_only: true
-          failure_message: ":boom: Scratch Help update failed, for help see: https://github.com/LLK/scratch-l10n/wiki/Developer-Guide#daily-help-update"
-          only_for_branches: "master"
 workflows:
   version: 2
   build-test-and-deploy:
@@ -121,12 +111,3 @@ workflows:
         - commit-translations:
             requires:
               - pull-translations # don't commit if there were errors
-  daily-help-update:
-    triggers:
-      - schedule: # daily at 5am
-          cron: "0 5 * * *"
-          filters:
-            branches:
-              only: master
-    jobs:
-      - sync-help
