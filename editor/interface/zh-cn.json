@@ -94,6 +94,7 @@
     "gui.extensionLibrary.programMode": "编程模式",
     "gui.extensionLibrary.programLanguage": "编程语言",
     "gui.extensionLibrary.deviceLearnMore": "了解更多",
+    "gui.extensionLibrary.extensionHelp": "帮助",
     "gui.extensionLibrary.Processing": "处理中...",
     "gui.extensionLibrary.loaded": "已加载",
     "gui.extensionLibrary.notLoaded": "未加载",

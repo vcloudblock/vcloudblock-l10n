@@ -94,6 +94,7 @@
     "gui.extensionLibrary.programMode": "Program mode",
     "gui.extensionLibrary.programLanguage": "Program language",
     "gui.extensionLibrary.deviceLearnMore": "Learn more",
+    "gui.extensionLibrary.extensionHelp": "Help",
     "gui.extensionLibrary.Processing": "Processing...",
     "gui.extensionLibrary.loaded": "Loaded",
     "gui.extensionLibrary.notLoaded": "Not loaded",
