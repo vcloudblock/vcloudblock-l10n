@@ -39,6 +39,7 @@
     "DATA_INDEX_LAST": "末尾",
     "DATA_INDEX_RANDOM": "随机",
     "EVENT_WHENARDUINOBEGIN": "当Arduino启动",
+    "EVENT_WHENMICROBITBEGIN": "当Microbit启动",
     "EVENT_WHENFLAGCLICKED": "当 %1 被点击",
     "EVENT_WHENTHISSPRITECLICKED": "当角色被点击",
     "EVENT_WHENSTAGECLICKED": "当舞台被点击",
