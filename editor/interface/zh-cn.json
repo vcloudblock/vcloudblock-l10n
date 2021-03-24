@@ -486,8 +486,6 @@
     "gui.device.microbit.connectingMessage": "连接中",
     "gui.device.maixduino.description": "内置ESP32的K210 RISC-V控制板",
     "gui.device.maixduino.connectingMessage": "连接中",
-    "gui.device.ironKit.description": "意启创金属套件机器人",
-    "gui.device.QDPRobot.description": "齐护机器人",
     "gui.extension.music.name": "音乐",
     "gui.extension.music.description": "演奏乐器，敲锣打鼓。",
     "gui.extension.pen.name": "画笔",

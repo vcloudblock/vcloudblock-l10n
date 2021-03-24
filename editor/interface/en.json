@@ -486,8 +486,6 @@
     "gui.device.microbit.connectingMessage": "Connecting",
     "gui.device.maixduino.description": "The K210 RISC-V board with ESP32 inside",
     "gui.device.maixduino.connectingMessage": "Connecting",
-    "gui.device.ironKit.description": "Yiqichuang iron kit robot",
-    "gui.device.QDPRobot.description": "QDP robot",
     "gui.extension.music.name": "Music",
     "gui.extension.music.description": "Play instruments and drums.",
     "gui.extension.pen.name": "Pen",
