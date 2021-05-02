@@ -69,6 +69,7 @@ jobs:
           command: |
             git config --global user.email $(git log --pretty=format:"%ae" -n1)
             git config --global user.name $(git log --pretty=format:"%an" -n1)
+            git pull
             git add .
             git commit -m "pull new editor translations from Transifex"
             git push $CIRCLE_REPOSITORY_URL HEAD:master
