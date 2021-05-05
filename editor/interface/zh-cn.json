@@ -500,6 +500,8 @@
     "gui.device.arduinoMega2560.description": "拥有54个数字引脚，16个模拟输入，和4个串口的8位控制板。",
     "gui.device.microbit.description": "可以学习电子知识的口袋计算机。",
     "gui.device.microbit.connectingMessage": "连接中",
+    "gui.device.arduinoEsp32.description": "功能强大且带有 Wi-Fi 和 蓝牙的控制板。",
+    "gui.device.arduinoEsp32.connectingMessage": "连接中",
     "gui.device.microbitV2.description": "升级的处理器，板载扬声器和麦克风，触摸感应徽标。",
     "gui.device.maixduino.description": "内置ESP32的K210 RISC-V控制板",
     "gui.device.maixduino.connectingMessage": "连接中",

@@ -500,6 +500,8 @@
     "gui.device.arduinoMega2560.description": "The 8-bit board with 54 digital pins, 16 analog inputs, and 4 serial ports.",
     "gui.device.microbit.description": "The pocket-sized computer transforming digital skills learning.",
     "gui.device.microbit.connectingMessage": "Connecting",
+    "gui.device.arduinoEsp32.description": "Wi-Fi & Bluetooth control board with rich functions.",
+    "gui.device.arduinoEsp32.connectingMessage": "Connecting",
     "gui.device.microbitV2.description": "Upgraded processor, built-In speaker and microphone, touch sensitive logo.",
     "gui.device.maixduino.description": "The K210 RISC-V board with ESP32 inside",
     "gui.device.maixduino.connectingMessage": "Connecting",
