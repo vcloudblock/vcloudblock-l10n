@@ -62,15 +62,17 @@ const combineJson = (component) => {
     }, {});
 };
 
-// generate the blocks messages: files are plain key-value JSON
-let blocksMessages = combineJson('blocks');
-let blockData =
-    '// GENERATED FILE:\n' +
-    'export default ' +
-    JSON.stringify(blocksMessages, null, 2) +
-    ';\n';
-
-fs.writeFileSync(MSGS_DIR + 'blocks-msgs.js', blockData);
+// generate the blocks and desktop messages: files are plain key-value JSON
+let keyValueComponents = ['blocks', 'desktop'];
+keyValueComponents.forEach((component) => {
+    let messages = combineJson(component);
+    let data =
+        '// GENERATED FILE:\n' +
+        'export default ' +
+        JSON.stringify(messages, null, 2) +
+        ';\n';
+    fs.writeFileSync(MSGS_DIR + component + '-msgs.js', data);
+});
 
 // generate messages for gui components - all files are plain key-value JSON
 let components = ['interface', 'extensions', 'paint-editor'];
