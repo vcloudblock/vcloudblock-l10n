@@ -1,0 +1,58 @@
+{
+    "index.cameraPermissionDeniedMessage": {
+        "message": "Permission to use the camera has been denied. OpenBlock will not be able to take a photo or use video sensing blocks.",
+        "description": "message for camera permission denied"
+    },
+    "index.cameraPermissionDeniedTitle": {
+        "message": "Camera Permission Denied",
+        "description": "prompt for camera permission denied"
+    },
+    "index.darwinPermissionDeniedInstructions": {
+        "message": "To change OpenBlock permissions, please check \"Security & Privacy\" in System Preferences.",
+        "description": "prompt for fix darwin permission denied instructions"
+    },
+    "index.failedLoadProject": {
+        "message": "Could not load project from file:",
+        "description": "prompt for failed to load project"
+    },
+    "index.leave": {
+        "message": "Leave",
+        "description": "Label for leave"
+    },
+    "index.microphonePermissionDeniedMessage": {
+        "message": "Permission to use the microphone has been denied. OpenBlock will not be able to record sounds or detect loudness.",
+        "description": "message for microphone permission denied"
+    },
+    "index.microphonePermissionDeniedTitle": {
+        "message": "Microphone Permission Denied",
+        "description": "prompt for microphone permission denied"
+    },
+    "index.permissionDeniedInstructions": {
+        "message": "To change OpenBlock permissions, please check your system settings and restart OpenBlock.",
+        "description": "prompt for fix permission denied instructions"
+    },
+    "index.permissionDeniedMessage": {
+        "message": "A permission has been denied.",
+        "description": "message for permission denied"
+    },
+    "index.permissionDeniedTitle": {
+        "message": "Permission Denied",
+        "description": "prompt for permission denied"
+    },
+    "index.questionLeave": {
+        "message": "Leave Openblock?",
+        "description": "prompt for leave Openblock"
+    },
+    "index.questionLeaveDetail": {
+        "message": "Any unsaved changes will be lost.",
+        "description": "detail prompt for leave Openblock"
+    },
+    "index.saveFailed": {
+        "message": "Save failed:",
+        "description": "prompt for save failed"
+    },
+    "index.stay": {
+        "message": "Stay",
+        "description": "Label for stay"
+    }
+}

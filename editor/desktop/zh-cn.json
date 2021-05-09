@@ -1,0 +1,58 @@
+{
+    "index.cameraPermissionDeniedMessage": {
+        "message": "使用摄像头的权限已被拒绝。OpenBlock 将无法拍照或使用视频侦测块。",
+        "description": "message for camera permission denied"
+    },
+    "index.cameraPermissionDeniedTitle": {
+        "message": "摄像头权限被拒绝",
+        "description": "prompt for camera permission denied"
+    },
+    "index.darwinPermissionDeniedInstructions": {
+        "message": "要更改 OpenBlock 的权限，请检查 “系统首选项” 中的 “安全和隐私” 设定。",
+        "description": "prompt for fix darwin permission denied instructions"
+    },
+    "index.failedLoadProject": {
+        "message": "无法从文件加载项目：",
+        "description": "prompt for failed to load project"
+    },
+    "index.leave": {
+        "message": "离开",
+        "description": "Label for leave"
+    },
+    "index.microphonePermissionDeniedMessage": {
+        "message": "使用麦克风的权限已被拒绝。 OpenBlock 将无法录制声音或检测响度。",
+        "description": "message for microphone permission denied"
+    },
+    "index.microphonePermissionDeniedTitle": {
+        "message": "麦克风许可被拒绝",
+        "description": "prompt for microphone permission denied"
+    },
+    "index.permissionDeniedInstructions": {
+        "message": "要更改 OpenBlock 的权限，请检查系统设置并重新启动 OpenBlock。",
+        "description": "prompt for fix permission denied instructions"
+    },
+    "index.permissionDeniedMessage": {
+        "message": "权限已被拒绝。",
+        "description": "message for permission denied"
+    },
+    "index.permissionDeniedTitle": {
+        "message": "没有权限",
+        "description": "prompt for permission denied"
+    },
+    "index.questionLeave": {
+        "message": "离开 Openblock？",
+        "description": "prompt for leave Openblock"
+    },
+    "index.questionLeaveDetail": {
+        "message": "任何未保存的更改将丢失。",
+        "description": "detail prompt for leave Openblock"
+    },
+    "index.saveFailed": {
+        "message": "保存失败：",
+        "description": "prompt for save failed"
+    },
+    "index.stay": {
+        "message": "留下",
+        "description": "Label for stay"
+    }
+}

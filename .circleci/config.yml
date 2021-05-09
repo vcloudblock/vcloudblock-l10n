@@ -50,6 +50,7 @@ jobs:
           name: "pull editor and www translations"
           command: |
             npm run pull:editor
+            npm run pull:desktop
             npm run pull:www
             npm run test
       - persist_to_workspace:

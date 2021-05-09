@@ -20,6 +20,7 @@
         "pull:extensions": "babel-node scripts/tx-pull-translations openblock-editor extensions ./editor/extensions/",
         "pull:blocks": "babel-node scripts/tx-pull-blocks ./editor/blocks/",
         "pull:editor": "npm run pull:blocks && npm run pull:extensions && npm run pull:paint && npm run pull:interface",
+        "pull:desktop": "babel-node scripts/tx-pull-desktop ./editor/desktop/",
         "pull:www": "",
         "pull:help:names": "./scripts/tx-pull-help-names.js",
         "pull:help:articles": "./scripts/tx-pull-help-articles.js",
