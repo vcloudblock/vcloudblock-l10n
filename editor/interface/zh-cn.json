@@ -48,6 +48,7 @@
     "gui.connection.error.helpbutton": "帮助",
     "gui.connection.peripheral-name-label": "设备名称",
     "gui.connection.connect": "连接",
+    "gui.connection.scanning.listAll": "显示全部可连接的设备",
     "gui.connection.scanning.lookingforperipherals": "正在查找设备",
     "gui.connection.scanning.noPeripheralsFound": "没有发现任何设备",
     "gui.connection.scanning.instructions": "选择上面列出的设备。",

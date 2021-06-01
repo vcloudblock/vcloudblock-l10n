@@ -48,6 +48,7 @@
     "gui.connection.error.helpbutton": "Help",
     "gui.connection.peripheral-name-label": "Device name",
     "gui.connection.connect": "Connect",
+    "gui.connection.scanning.listAll": "Show all connectable devices",
     "gui.connection.scanning.lookingforperipherals": "Looking for devices",
     "gui.connection.scanning.noPeripheralsFound": "No devices found",
     "gui.connection.scanning.instructions": "Select your device in the list above.",
