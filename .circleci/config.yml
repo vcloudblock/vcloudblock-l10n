@@ -51,6 +51,7 @@ jobs:
           command: |
             npm run pull:editor
             npm run pull:desktop
+            npm run pull:linkDesktop
             npm run pull:www
             npm run test
       - persist_to_workspace:
