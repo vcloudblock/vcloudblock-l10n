@@ -101,7 +101,7 @@ let keyValue = 'link-desktop';
 let messages = combineJson(keyValue);
 let data =
     '// GENERATED FILE:\n' +
-    'export default = ' +
+    'module.exports = ' +
     JSON.stringify(messages, null, 2) +
     ';\n';
 fs.writeFileSync(MSGS_DIR + 'link-desktop-msgs.js', data);
