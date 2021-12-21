@@ -73,7 +73,7 @@ jobs:
             git config --global user.name $(git log --pretty=format:"%an" -n1)
             git pull
             git add .
-            git commit -m "pull new editor translations from Transifex"
+            git commit -m "pull new editor translations from Transifex" 
             git push $CIRCLE_REPOSITORY_URL HEAD:master
 workflows:
   version: 2

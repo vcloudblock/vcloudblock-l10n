@@ -66,8 +66,8 @@ const locales = {
     // 'vi': {name: 'Tiếng Việt'},
     // 'tr': {name: 'Türkçe'},
     // 'uk': {name: 'Українська'},
-    'zh-cn': {name: '简体中文'}
-    // 'zh-tw': {name: '繁體中文'}
+    'zh-cn': {name: '简体中文'},
+    'zh-tw': {name: '繁體中文'}
 };
 
 const customLocales = {

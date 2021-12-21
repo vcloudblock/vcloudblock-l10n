@@ -1,6 +1,6 @@
 # OpenBlock-l10n
 
-Translation of all OpenBlock projects is managed on the Transifex service: https://www.transifex.com/llk/public
+Translation of all OpenBlock projects is managed on the Transifex service: https://www.transifex.com/openblockcc/public/
 
 This repository collects translations submitted to the OpenBlock projects on Transifex. **Please do not submit PRs. If you would like to contribute translations, please sign up to translate on Transifex.**
 
@@ -13,7 +13,7 @@ npm install --save-dev openblock-l10n
 
 #### Basic Use
 ```js
-import locales, {localeData, isRtl} from 'scratch-l10n';
+import locales, {localeData, isRtl} from 'openblock-l10n';
 import editorMessages from 'openblock-l10n/locales/editor-messages';
 ```
 * `locales`: currently supported locales for the OpenBlock project
