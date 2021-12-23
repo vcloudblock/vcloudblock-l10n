@@ -1,4 +1,5 @@
 {
+    "paint.colorPicker.swap": "交換",
     "paint.paintEditor.hue": "顏色",
     "paint.paintEditor.saturation": "彩度",
     "paint.paintEditor.brightness": "亮度",
@@ -40,6 +41,5 @@
     "paint.reshapeMode.reshape": "重新塑形",
     "paint.roundedRectMode.roundedRect": "圓角方形",
     "paint.selectMode.select": "選取",
-    "paint.textMode.text": "文字",
-    "paint.colorPicker.swap": "交換"
+    "paint.textMode.text": "文字"
 }
