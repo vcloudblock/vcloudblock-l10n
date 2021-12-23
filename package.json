@@ -23,6 +23,7 @@
         "pull:desktop": "babel-node scripts/tx-pull-translations openblock-editor desktop ./editor/desktop/",
         "pull:linkDesktop": "babel-node scripts/tx-pull-translations openblock-editor link-desktop ./editor/link-desktop/",
         "pull:www": "",
+        "pull": "npm run pull:editor && npm run pull:desktop && npm run pull:linkDesktop",
         "pull:help:names": "./scripts/tx-pull-help-names.js",
         "pull:help:articles": "./scripts/tx-pull-help-articles.js",
         "pull:help": "npm run pull:help:names && npm run pull:help:articles",
