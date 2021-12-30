@@ -71,7 +71,7 @@ jobs:
 
       - name: Get package main version
         id: package-version
-        uses: martinbeentjes/npm-get-version-action@master
+        uses: martinbeentjes/npm-get-version-action@v1.1.0
 
       - name: Generate release version
         run: |
