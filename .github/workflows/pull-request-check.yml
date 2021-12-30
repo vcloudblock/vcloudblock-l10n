@@ -9,10 +9,6 @@ on:
 jobs:
   check:
     runs-on: ubuntu-latest
-
-    env:
-      NPM_TAG: latest
-
     strategy:
       matrix:
         node-version: [12.x, 14.x, 16.x]
