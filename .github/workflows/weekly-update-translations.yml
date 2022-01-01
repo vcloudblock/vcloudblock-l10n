@@ -42,7 +42,7 @@ jobs:
         run: echo ::set-output name=modified::$(if [ -n "$(git status --porcelain)" ]; then echo "true"; else echo "false"; fi)
 
       - name: Commit translations
-        if: steps.git-check.outputs.modified == 'true'
+        if: ${{ steps.git-check.outputs.modified == 'true' }}
         id: git-push
         run:  |
           git config --global user.name github-actions
@@ -54,27 +54,27 @@ jobs:
           git push --set-upstream origin-translation develop
 
       - name: Get package main version
-        if: steps.git-check.outputs.modified == 'true'
+        if: ${{ steps.git-check.outputs.modified == 'true' }}
         id: package-version
         uses: martinbeentjes/npm-get-version-action@v1.1.0
 
       - name: Generate release version
-        if: steps.git-check.outputs.modified == 'true'
+        if: ${{ steps.git-check.outputs.modified == 'true' }}
         run: |
           VPKG=${{ steps.package-version.outputs.current-version }}
           echo "RELEASE_VERSION=${VPKG/%?/}$(date +%Y%m%d%H%M%S)" >> $GITHUB_ENV
 
       - name: Set package version
-        if: steps.git-check.outputs.modified == 'true'
+        if: ${{ steps.git-check.outputs.modified == 'true' }}
         run: npm --no-git-tag-version version $RELEASE_VERSION
 
       - name: Tag release
-        if: steps.git-check.outputs.modified == 'true'
+        if: ${{ steps.git-check.outputs.modified == 'true' }}
         run: |
           git tag $RELEASE_VERSION
           git push https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/$GITHUB_REPOSITORY $RELEASE_VERSION
 
       - uses: JS-DevTools/npm-publish@v1
-        if: steps.git-check.outputs.modified == 'true'
+        if: ${{ steps.git-check.outputs.modified == 'true' }}
         with:
           token: ${{ secrets.NPM_TOKEN }}
