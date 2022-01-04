@@ -319,6 +319,8 @@
     "gui.alerts.uploadSuccess": "上傳成功",
     "gui.alerts.selectADeviceFirst": "請先選擇一個設備",
     "gui.alerts.connectAPeripheralFirst": "請先連接設備",
+    "gui.alerts.codeEditorIsLocked": "Code editor is in lock state, if you want to edit the code, please unlock it first",
+    "gui.alerts.codeEditorIsUnlocked": "Code editor is in unlock state, if you want to generate code from block, please lock it first",
     "gui.defaultProject.chirp": "啁啾",
     "gui.defaultProject.variable": "my variable",
     "gui.howtos.intro-move-sayhello-hat.name": "新手入門",

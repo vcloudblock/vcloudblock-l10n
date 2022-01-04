@@ -319,6 +319,8 @@
     "gui.alerts.uploadSuccess": "上传成功",
     "gui.alerts.selectADeviceFirst": "请先选择一个设备",
     "gui.alerts.connectAPeripheralFirst": "请先连接设备",
+    "gui.alerts.codeEditorIsLocked": "代码编辑器处于锁定状态，如果要编辑代码，请先解锁",
+    "gui.alerts.codeEditorIsUnlocked": "代码编辑器处于解锁状态，如果你想由积木中生成代码，请先锁定",
     "gui.defaultProject.chirp": "啁啾",
     "gui.defaultProject.variable": "我的变量",
     "gui.howtos.intro-move-sayhello-hat.name": "入门",
