@@ -3,6 +3,9 @@
     "index.cameraPermissionDeniedTitle": "Camera Permission Denied",
     "index.darwinPermissionDeniedInstructions": "To change OpenBlock permissions, please check \"Security & Privacy\" in System Preferences.",
     "index.failedLoadProject": "Could not load project from file:",
+    "index.initialResourcesFailedTitle": "Failed to initialize resources",
+    "index.initializeResourcesFailed": "Initialize resources failed",
+    "index.internetDisconnectedError": "Internet disconnected, please verify your internet connection and try again.",
     "index.leave": "Leave",
     "index.microphonePermissionDeniedMessage": "Permission to use the microphone has been denied. OpenBlock will not be able to record sounds or detect loudness.",
     "index.microphonePermissionDeniedTitle": "Microphone Permission Denied",
@@ -12,5 +15,6 @@
     "index.questionLeave": "Leave Openblock?",
     "index.questionLeaveDetail": "Any unsaved changes will be lost.",
     "index.saveFailed": "Save failed:",
+    "index.saveFailedTitle": "Failed to save project",
     "index.stay": "Stay"
 }

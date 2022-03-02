@@ -3,6 +3,9 @@
     "index.cameraPermissionDeniedTitle": "攝像頭權限被拒絕",
     "index.darwinPermissionDeniedInstructions": "要更改 OpenBlock 的權限，請檢查 “系統首選項” 中的 “安全和隱私” 設定。",
     "index.failedLoadProject": "無法從檔案載入專案：",
+    "index.initialResourcesFailedTitle": "Failed to initialize resources",
+    "index.initializeResourcesFailed": "Initialize resources failed",
+    "index.internetDisconnectedError": "Internet disconnected, please verify your internet connection and try again.",
     "index.leave": "離開",
     "index.microphonePermissionDeniedMessage": "使用麥克風的權限已被拒絕。 OpenBlock 將無法錄製聲音或檢測音量。",
     "index.microphonePermissionDeniedTitle": "麥克風權限被拒絕",
@@ -12,5 +15,6 @@
     "index.questionLeave": "離開 Openblock？",
     "index.questionLeaveDetail": "任何未保存的更改將遺失。",
     "index.saveFailed": "保存失敗：",
+    "index.saveFailedTitle": "Failed to save project",
     "index.stay": "停留"
 }
