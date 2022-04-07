@@ -39,7 +39,6 @@
     "DATA_INDEX_LAST": "末",
     "DATA_INDEX_RANDOM": "隨機",
     "EVENT_WHENARDUINOBEGIN": "當Arduino啟動",
-    "EVENT_WHENMICROPYTHONBEGIN": "when MicroPython begin",
     "EVENT_WHENMICROBITBEGIN": "當Microbit啟動",
     "EVENT_WHENMICROBITBUTTONPRESSED": "當按鈕 %1 被按下",
     "EVENT_WHENMICROBITPINBEINGTOUCHED": "當腳位 %1 被觸摸",
