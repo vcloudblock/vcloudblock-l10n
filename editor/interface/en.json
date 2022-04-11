@@ -516,7 +516,6 @@
     "gui.device.arduinoUno.description": "A great board to get started with electronics and coding.",
     "gui.device.arduino.connectingMessage": "Connecting",
     "gui.device.arduinoNano.description": "The Arduino Nano is a classic small board to build your projects with.",
-    "gui.device.arduinoMini.description": "The Arduino Mini a classic smaller board to build your projects with.",
     "gui.device.arduinoLeonardo.description": "The classic Arduino board that can act as a mouse or keyboard.",
     "gui.device.arduinoMega2560.description": "The 8-bit board with 54 digital pins, 16 analog inputs, and 4 serial ports.",
     "gui.device.arduinoEsp32.description": "Wi-Fi & Bluetooth control board with rich functions.",

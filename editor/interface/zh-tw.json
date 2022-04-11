@@ -516,7 +516,6 @@
     "gui.device.arduinoUno.description": "很好的電子編程入門控制板。",
     "gui.device.arduino.connectingMessage": "連接中",
     "gui.device.arduinoNano.description": "Arduino Nano 用於構建項目的經典小控制板。",
-    "gui.device.arduinoMini.description": "Arduino Mini 用於構建項目的更小控制板。",
     "gui.device.arduinoLeonardo.description": "經典的Arduino板，可以用作鼠標或鍵盤。",
     "gui.device.arduinoMega2560.description": "擁有54個數位腳位，16個類比輸入，和4個串口的8位控制板。",
     "gui.device.arduinoEsp32.description": "功能強大且帶有 Wi-Fi 和 藍牙的控制板。",
