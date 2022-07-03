@@ -133,6 +133,7 @@
     "form.validationRequired": "必填字段",
     "gui.menuBar.LanguageSelector": "语言菜单",
     "gui.menuBar.tutorialsLibrary": "教程",
+    "gui.menuBar.openCommunity": "开放社区",
     "gui.menuBar.restoreSprite": "复原删除的角色",
     "gui.menuBar.restoreSound": "复原删除的声音",
     "gui.menuBar.restoreCostume": "复原删除的造型",
