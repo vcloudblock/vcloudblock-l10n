@@ -133,8 +133,8 @@
     "form.validationRequired": "必填字段",
     "gui.menuBar.LanguageSelector": "语言菜单",
     "gui.menuBar.tutorialsLibrary": "教程",
-    "gui.menuBar.community": "Open Community",
-    "gui.menuBar.wiki": "Wiki",
+    "gui.menuBar.community": "开放社区",
+    "gui.menuBar.wiki": "维基",
     "gui.menuBar.restoreSprite": "复原删除的角色",
     "gui.menuBar.restoreSound": "复原删除的声音",
     "gui.menuBar.restoreCostume": "复原删除的造型",
@@ -610,6 +610,7 @@
     "gui.sharedMessages.loadFromComputerTitle": "从电脑中上传",
     "gui.gui.defaultProjectTitle": "OpenBlock作品",
     "gui.desktopMenuBar.about": "关于",
+    "gui.desktopMenuBar.license": "许可证",
     "gui.menuBar.privacyPolicy": "隐私政策",
     "gui.menuBar.dataSettings": "数据设置"
 }

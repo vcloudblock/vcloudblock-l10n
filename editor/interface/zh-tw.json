@@ -133,8 +133,8 @@
     "form.validationRequired": "必填欄位",
     "gui.menuBar.LanguageSelector": "語言選擇器",
     "gui.menuBar.tutorialsLibrary": "教程",
-    "gui.menuBar.community": "Open Community",
-    "gui.menuBar.wiki": "Wiki",
+    "gui.menuBar.community": "開放社區",
+    "gui.menuBar.wiki": "維基",
     "gui.menuBar.restoreSprite": "復原角色",
     "gui.menuBar.restoreSound": "復原音效",
     "gui.menuBar.restoreCostume": "復原造型",
@@ -610,6 +610,7 @@
     "gui.sharedMessages.loadFromComputerTitle": "從你的電腦選擇",
     "gui.gui.defaultProjectTitle": "OpenBlock專案",
     "gui.desktopMenuBar.about": "關於",
+    "gui.desktopMenuBar.license": "許可証",
     "gui.menuBar.privacyPolicy": "隱私政策",
     "gui.menuBar.dataSettings": "數據設置"
 }

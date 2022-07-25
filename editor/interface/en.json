@@ -610,6 +610,7 @@
     "gui.sharedMessages.loadFromComputerTitle": "Load from your computer",
     "gui.gui.defaultProjectTitle": "OpenBlock Project",
     "gui.desktopMenuBar.about": "About",
+    "gui.desktopMenuBar.license": "License",
     "gui.menuBar.privacyPolicy": "Privacy policy",
     "gui.menuBar.dataSettings": "Data settings"
 }
