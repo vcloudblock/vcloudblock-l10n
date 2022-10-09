@@ -16,5 +16,6 @@
     "index.questionLeaveDetail": "任何未保存的更改将丢失。",
     "index.saveFailed": "保存失败：",
     "index.saveFailedTitle": "保存项目失败",
-    "index.stay": "留下"
+    "index.stay": "留下",
+    "index.systemRestartRequired": "安装完成，请重启系统。"
 }

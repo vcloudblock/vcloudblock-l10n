@@ -16,5 +16,6 @@
     "index.questionLeaveDetail": "Any unsaved changes will be lost.",
     "index.saveFailed": "Save failed:",
     "index.saveFailedTitle": "Failed to save project",
-    "index.stay": "Stay"
+    "index.stay": "Stay",
+    "index.systemRestartRequired": "Installation is complete, please restart the system."
 }
