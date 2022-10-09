@@ -542,6 +542,8 @@
     "gui.device.k210MaixDock.connectingMessage": "連接中",
     "gui.device.k210Maixduino.description": "內置ESP32的K210 RISC-V控制板。",
     "gui.device.k210Maixduino.connectingMessage": "連接中",
+    "gui.device.raspberryPiPicoIconURL.description": "功能強大且靈活的控制板。",
+    "gui.device.raspberryPiPicoIconURL.connectingMessage": "連接中",
     "gui.extension.music.name": "音樂",
     "gui.extension.music.description": "演奏樂器與節拍。",
     "gui.extension.pen.name": "畫筆",

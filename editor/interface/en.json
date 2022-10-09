@@ -542,6 +542,8 @@
     "gui.device.k210MaixDock.connectingMessage": "Connecting",
     "gui.device.k210Maixduino.description": "The K210 RISC-V board with ESP32 inside.",
     "gui.device.k210Maixduino.connectingMessage": "Connecting",
+    "gui.device.raspberryPiPicoIconURL.description": "The powerful, flexible microcontroller board.",
+    "gui.device.raspberryPiPicoIconURL.connectingMessage": "Connecting",
     "gui.extension.music.name": "Music",
     "gui.extension.music.description": "Play instruments and drums.",
     "gui.extension.pen.name": "Pen",
