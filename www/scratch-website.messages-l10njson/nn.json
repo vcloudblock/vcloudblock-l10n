@@ -5,6 +5,8 @@
     "messages.activityStudios": "Galleriaktivitet",
     "messages.activityForums": "Forumsaktivitet",
     "messages.becomeManagerText": "{username} forfremja deg til administrator for galleriet {studio}",
+    "messages.becomeHostText": "{usernameOrScratchTeam} gjorde deg til vert for galleriet{studio}. Som vert kan du endra namnet, biletet og skildringa til galleriet. Stikk innom galleriet og sei hei!",
+    "messages.becomeHostScratchTeam": "Eit medlem av Scratch-gruppa",
     "messages.curatorInviteText": "{actorLink} har invitert deg til å vera med å forvalta galleriet {studioLink}. Gå til {tabLink} på galleriet for å godta invitasjonen.",
     "messages.curatorTabText": "forvaltar-fane",
     "messages.favoriteText": "{profileLink} favorittmerkte prosjektet ditt {projectLink}",

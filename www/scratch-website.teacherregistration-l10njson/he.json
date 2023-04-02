@@ -1,5 +1,6 @@
 {
     "teacherRegistration.nameStepTitle": "First &amp; Last Name",
+    "teacherRegistration.nameStepTitleNew": "First & Last Name",
     "teacherRegistration.nameStepDescription": "שמך לא יוצג ברבים, ויישמר חסוי ומאובטח.",
     "teacherRegistration.firstName": "שם פרטי",
     "teacherRegistration.lastName": "שם משפחה",
@@ -24,7 +25,7 @@
     "teacherRegistration.notRequired": "לא דרוש",
     "teacherRegistration.addressLine1": "Address Line 1",
     "teacherRegistration.addressLine2": "Address Line 2 (Optional)",
-    "teacherRegistration.zipCode": "ZIP",
+    "teacherRegistration.zipCode": "מיקוד",
     "teacherRegistration.stateProvince": "מדינה",
     "teacherRegistration.city": "עיר",
     "teacherRegistration.addressStepTitle": "כתובת",

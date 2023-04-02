@@ -1,14 +1,14 @@
 {
     "developers.hereLinkText": "aqui",
     "developers.title": "Scratch para Desenvolvedores",
-    "developers.introLinkText": "Equipe do Scratch no MIT",
+    "developers.introLinkText": "Equipe Scratch",
     "developers.intro": "Nesta página você encontrará informações sobre os projetos abertos criados e mantidos pelo {introLink}, bem como nossas opiniões nas melhores práticas de design de experiências em aprendizagem para as crianças.",
     "developers.projectsTitle": "Projetos",
     "developers.principlesTitle": "Princípios",
     "developers.joinTitle": "Junte-se a nós",
     "developers.donateTitle": "Fazer doação",
     "developers.partnersTitle": "Parceiros",
-    "developers.faqTitle": "FAQ",
+    "developers.faqTitle": "Perguntas frequentes",
     "developers.projectsIntro": "Os projetos a seguir são de código aberto e estão disponíveis para quaisquer fins.",
     "developers.scratchBlocksTitle": "Scratch Blocks",
     "developers.scratchBlocksIntroBlocklyLinkText": "Tecnologia Blockly",
@@ -56,5 +56,5 @@
     "developers.faqDifferencesTitle": "Qual é a diferença entre Blockly e os Scratch Blocks?",
     "developers.faqDifferencesBody": "O Scratch Blocks é baseados no código do Blockly e é desenvolvidos especificamente com nossos princípios em mente, para dar suporte as experiências de aprendizagem criativa.",
     "developers.faqCollabTitle": "Eu gostaria de colaborar. Como faço para entrar em contato?",
-    "developers.faqCollabBody": "Você pode entrar em contato conosco por meio do {githubLink} ou você pode enviar email para {emailLink}. Estamos esperando para ouvi-los."
+    "developers.faqCollabBody": "Você pode falar conosco no {githubLink} ou na nossa página de {contactUsLink}. Não vemos a hora de falar com você!"
 }

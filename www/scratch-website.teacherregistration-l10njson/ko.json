@@ -1,5 +1,6 @@
 {
     "teacherRegistration.nameStepTitle": "이름 &amp; 성",
+    "teacherRegistration.nameStepTitleNew": "이름 & 성",
     "teacherRegistration.nameStepDescription": "이름은 공개되지 않고, 비밀로 안전하게 보관될 것입니다.",
     "teacherRegistration.firstName": "이름",
     "teacherRegistration.lastName": "성",
@@ -19,7 +20,7 @@
     "teacherRegistration.orgChoiceUniversity": "대학교",
     "teacherRegistration.orgChoiceAfterschool": "방과후 프로그램",
     "teacherRegistration.orgChoiceMuseum": "박물관/미술관",
-    "teacherRegistration.orgChoiceLibrary": "저장소",
+    "teacherRegistration.orgChoiceLibrary": "도서관",
     "teacherRegistration.orgChoiceCamp": "캠프",
     "teacherRegistration.notRequired": "필수 아님",
     "teacherRegistration.addressLine1": "주소의 1번째 줄",
