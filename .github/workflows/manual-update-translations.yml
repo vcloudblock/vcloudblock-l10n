@@ -51,7 +51,7 @@ jobs:
           git add .
           git commit -m '[skip ci] Pull new editor translations from Transifex'
           git remote add origin-translation https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/$GITHUB_REPOSITORY
-          git push --set-upstream origin-translation develop
+          git push --set-upstream origin-translation main
 
       - name: Get package main version
         if: ${{ steps.git-check.outputs.modified == 'true' }}
