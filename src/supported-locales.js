@@ -57,7 +57,7 @@ const locales = {
     // 'pt-br': {name: 'Português Brasileiro'},
     // 'rap': {name: 'Rapa Nui'},
     // 'ro': {name: 'Română'},
-    // 'ru': {name: 'Русский'},
+    'ru': {name: 'Русский'},
     // 'sr': {name: 'Српски'},
     // 'sk': {name: 'Slovenčina'},
     // 'sl': {name: 'Slovenščina'},
