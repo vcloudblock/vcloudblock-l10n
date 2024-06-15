@@ -40,7 +40,7 @@
     "gui.connection.go-to-editor": "Перейти к редактору",
     "gui.connection.connecting-cancelbutton": "Соединяю...",
     "gui.connection.accessDeniedError.errorMessage": "К сожалению, доступ к последовательному порту запрещен, проверьте, не занят ли последовательный порт.",
-    "gui.connection.unknownErrorCode31.errorMessage": "Oops, Unknown error code 31, it is recommended to re-plug the device.",
+    "gui.connection.unknownErrorCode31.errorMessage": "Ошибка 31: Неизвестный код ошибки, рекомендуется переподключить устройство.",
     "gui.connection.error.errorMessage": "Ой, кажется что-то пошло не так.",
     "gui.connection.error.tryagainbutton": "Попробуйте еще",
     "gui.connection.error.helpbutton": "Помощь",
