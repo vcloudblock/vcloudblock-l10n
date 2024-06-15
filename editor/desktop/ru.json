@@ -1,0 +1,21 @@
+{
+    "index.cameraPermissionDeniedMessage": "Отказано в разрешении на использование камеры. OpenBlock не сможет делать фото или использовать блоки распознавания видео.",
+    "index.cameraPermissionDeniedTitle": "Доступ к камере запрещен",
+    "index.darwinPermissionDeniedInstructions": "Чтобы изменить разрешения OpenBlock, установите флажок «Безопасность и конфиденциальность» в Системных настройках.",
+    "index.failedLoadProject": "Не удалось загрузить проект из файла:",
+    "index.initialResourcesFailedTitle": "Не удалось инициализировать ресурсы",
+    "index.initializeResourcesFailed": "Не удалось инициализировать ресурсы",
+    "index.internetDisconnectedError": "Интернет отключен, проверьте подключение к Интернету и повторите попытку.",
+    "index.leave": "Выйти",
+    "index.microphonePermissionDeniedMessage": "Отказано в разрешении на использование микрофона. OpenBlock не сможет записывать звуки или определять громкость.",
+    "index.microphonePermissionDeniedTitle": "Отказано в доступе к микрофону",
+    "index.permissionDeniedInstructions": "Чтобы изменить разрешения OpenBlock, проверьте настройки вашей системы и перезапустите OpenBlock.",
+    "index.permissionDeniedMessage": "Разрешение было отклонено.",
+    "index.permissionDeniedTitle": "Разрешение отклонено",
+    "index.questionLeave": "Выйти из Openblock?",
+    "index.questionLeaveDetail": "Любые несохраненные изменения будут потеряны.",
+    "index.saveFailed": "Не удалось сохранить:",
+    "index.saveFailedTitle": "Не удалось сохранить проект",
+    "index.stay": "Остаться",
+    "index.systemRestartRequired": "Установка завершена, пожалуйста, перезагрузите систему."
+}

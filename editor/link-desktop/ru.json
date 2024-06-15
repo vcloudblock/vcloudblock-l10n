@@ -1,0 +1,18 @@
+{
+    "index.menu.checkUpdate": "Проверка обновлений",
+    "index.menu.checkingUpdate": "Проверка обновлений",
+    "index.menu.exit": "Выход",
+    "index.menu.installDiver": "Установка драйвера",
+    "index.menu.learCacheAndRestart": "Очистить кэш и перезагрузить",
+    "index.menu.setLanguage": "Выбрать язык",
+    "index.messageBox.alreadyLatest": "Последний",
+    "index.messageBox.alreadyLatestTips": "Внешний источник уже последний.",
+    "index.messageBox.covering": "Покрытие",
+    "index.messageBox.downloading": "Загрузка",
+    "index.messageBox.newExternalResource": "Обнаружена новая версия внешнего ресурса",
+    "index.messageBox.operationFailed": "Операция не выполнена",
+    "index.messageBox.upgradeAndRestart": "Обновите и перезапустите",
+    "index.messageBox.upgradeLater": "Обновить позже",
+    "index.messageBox.upgrading": "Обновление",
+    "index.messageBox.upgradingTip": "Выполняется обновление, пожалуйста, не закрывайте программу, она автоматически перезапустится после завершения обновления."
+}

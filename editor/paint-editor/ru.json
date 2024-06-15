@@ -1,4 +1,5 @@
 {
+    "paint.colorPicker.swap": "Заменить",
     "paint.paintEditor.hue": "Цвет",
     "paint.paintEditor.saturation": "Насыщенность",
     "paint.paintEditor.brightness": "Яркость",
@@ -40,6 +41,5 @@
     "paint.reshapeMode.reshape": "Изменение формы",
     "paint.roundedRectMode.roundedRect": "Скруглённый Прямоугольник",
     "paint.selectMode.select": "Выбрать",
-    "paint.textMode.text": "Текст",
-    "paint.colorPicker.swap": "Заменить"
+    "paint.textMode.text": "Текст"
 }
