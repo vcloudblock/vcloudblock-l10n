@@ -1,7 +1,7 @@
 {
-    "name": "openblock-l10n",
+    "name": "vcloudblock-l10n",
     "version": "3.15.0",
-    "description": "Localization for the Openblock components",
+    "description": "Localization for the vcloudblock components",
     "main": "./dist/l10n.js",
     "browser": "./src/index.js",
     "bin": {
@@ -15,13 +15,13 @@
         "lint:js": "eslint . --ext .js",
         "lint:json": "jshint -e .json www editor/blocks editor/extensions editor/interface editor/paint-editor",
         "lint": "npm run lint:js && npm run lint:json",
-        "pull:interface": "babel-node scripts/tx-pull-editor openblock-editor interface ./editor/interface/",
-        "pull:paint": "babel-node scripts/tx-pull-editor openblock-editor paint-editor ./editor/paint-editor/",
-        "pull:extensions": "babel-node scripts/tx-pull-editor openblock-editor extensions ./editor/extensions/",
-        "pull:blocks": "babel-node scripts/tx-pull-editor openblock-editor blocks ./editor/blocks/",
+        "pull:interface": "babel-node scripts/tx-pull-editor vcloudblock-editor interface ./editor/interface/",
+        "pull:paint": "babel-node scripts/tx-pull-editor vcloudblock-editor paint-editor ./editor/paint-editor/",
+        "pull:extensions": "babel-node scripts/tx-pull-editor vcloudblock-editor extensions ./editor/extensions/",
+        "pull:blocks": "babel-node scripts/tx-pull-editor vcloudblock-editor blocks ./editor/blocks/",
         "pull:editor": "npm run pull:blocks && npm run pull:extensions && npm run pull:paint && npm run pull:interface",
-        "pull:desktop": "babel-node scripts/tx-pull-editor openblock-editor desktop ./editor/desktop/",
-        "pull:linkDesktop": "babel-node scripts/tx-pull-editor openblock-editor link-desktop ./editor/link-desktop/",
+        "pull:desktop": "babel-node scripts/tx-pull-editor vcloudblock-editor desktop ./editor/desktop/",
+        "pull:linkDesktop": "babel-node scripts/tx-pull-editor vcloudblock-editor link-desktop ./editor/link-desktop/",
         "pull:www": "",
         "pull": "npm run pull:editor && npm run pull:desktop && npm run pull:linkDesktop",
         "pull:help:names": "./scripts/tx-pull-help-names.js",
@@ -40,20 +40,21 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/openblockcc/openblock-l10n.git"
+        "url": "git+https://github.com/vcloudblock/vcloudblock-l10n.git"
     },
     "author": "Massachusetts Institute of Technology",
     "license": "BSD-3-Clause",
     "bugs": {
-        "url": "https://github.com/openblockcc/openblock-l10n/issues"
+        "url": "https://github.com/vcloudblock/vcloudblock-l10n/issues"
     },
-    "homepage": "https://github.com/openblockcc/openblock-l10n#readme",
+    "homepage": "https://github.com/vcloudblock/vcloudblock-l10n#readme",
     "dependencies": {
         "@babel/cli": "^7.1.2",
         "@babel/core": "^7.1.2",
         "@transifex/api": "4.2.5",
         "babel-plugin-react-intl": "^3.0.1",
-        "download": "^8.0.0"
+        "download": "^8.0.0",
+        "vcloudblock-l10n": "file:"
     },
     "devDependencies": {
         "@babel/eslint-parser": "7.18.2",
