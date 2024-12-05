@@ -53,7 +53,6 @@
         "@babel/core": "^7.1.2",
         "@transifex/api": "4.2.5",
         "babel-plugin-react-intl": "^3.0.1",
-        "chromedriver": "^109.0.0",
         "download": "^8.0.0",
         "vcloudblock-l10n": "file:"
     },
